@@ -1,14 +1,13 @@
-# module-common-adapter
+# 依赖方式
+```groovy
 
-#依赖方式
-~~~
 	allprojects {
 		repositories {
 			maven { url 'https://www.jitpack.io' }
 		}
 	}
-  
-  dependencies {
-	    implementation 'com.github.LLAiden:module-common-adapter:Tag'
-	}
-~~~
+
+    dependencies {
+        implementation 'com.github.LLAiden:module-module-common-adapter:Tag'
+    }
+```
