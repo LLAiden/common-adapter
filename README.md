@@ -8,6 +8,6 @@
 	}
 
     dependencies {
-        implementation 'com.github.LLAiden:module-module-common-adapter:Tag'
+        implementation 'com.github.LLAiden:module-common-adapter:Tag'
     }
 ```
